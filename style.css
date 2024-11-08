@@ -1,0 +1,14 @@
+H1	{	FONT-FAMILY:LUCIDA CALLIGRAPHY;
+    FONT-SIZE:50PT;
+    TEXT-ALIGN:CENTER;
+}
+
+BODY	{	MARGIN-TOP:30PX;
+    MARGIN-LEFT:20PX;
+    MARGIN-RIGHT:20PX;
+    FONT-SIZE:20PT;
+    FONT-FAMILY:Baskerville Old Face;
+    BACKGROUND:URL("PIC.JPG");
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+}
